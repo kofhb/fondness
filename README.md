@@ -65,6 +65,13 @@ You can deploy this bot anywhere.
 </a>
 </p>
 
+<a href="https://render.com/deploy?repo=https://github.com/GoodLove1/fondness">
+
+  <img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
+
+</a>
+
+
 <a href="https://youtube.com/channel/UCqts9WhhlioK3RB9XQQzoAg">
   <img src="https://img.shields.io/badge/How%20to-Deploy-red?logo=youtube" width="147">
 </a><br>
