@@ -43,7 +43,7 @@ async def answer(bot, query):
         f_caption=file.caption
         if CUSTOM_FILE_CAPTION:
             try:
-                f_caption=CUSTOM_FILE_CAPTION.format(@fondness_mov😊 {file_name=title}💾Size: {file_size=size}⏰ Duration: {duration})
+                f_caption=CUSTOM_FILE_CAPTION.format( {file_name=title},{file_size=size} ,{duration})
 
 
 
