@@ -9,4 +9,4 @@ fi
 cd /Anurag-Extra-Features
 pip3 install -U -r requirements.txt
 echo "Starting FONDNESS....🔥"
-python3 bot.py
+gunicorn app:app & python3 bot.py
